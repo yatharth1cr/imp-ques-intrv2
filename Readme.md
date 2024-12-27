@@ -32,13 +32,4 @@ This repository contains solutions for a database assignment. The assignment had
 - Updated records for consistency.
 - Found incomplete admissions.
 
-## How to Run
-
-### MongoDB
-
-1. Go to the `MongoDB` folder.
-2. Run:
-   ```bash
-   npm install
-   npm start
-   ```
+  
