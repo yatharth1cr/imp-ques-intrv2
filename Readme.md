@@ -34,11 +34,6 @@ This repository contains solutions for a database assignment. The assignment had
 
 ## How to Run
 
-### SQL
-
-1. Go to the `SQL` folder.
-2. Import and run the scripts in your database.
-
 ### MongoDB
 
 1. Go to the `MongoDB` folder.
